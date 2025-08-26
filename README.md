@@ -27,7 +27,7 @@
 <!-- <a href="https://leetcode.com/u/Ranit02" target="blank">
   <img src="https://img.shields.io/badge/LeetCode-ffffff?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Image"/>
 </a> -->
-<a href="https://www.coursera.org/learner/ranit-saha-8854" target="blank">
+<a href="https://www.coursera.org/learner/tanmay-chachra" target="blank">
   <img src="https://img.shields.io/badge/Coursera-indigo?style=for-the-badge&logo=coursera&logoColor=blue" alt="Coursera Image"/>
 </a>
 <a href="https://www.kaggle.com/tanmaychachra" target="_blank">
