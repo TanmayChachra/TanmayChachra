@@ -37,8 +37,6 @@
 
 
 ## Skills:
-![My Skills](https://skillicons.dev/icons?i=python,php,html,css,js,jquery,tailwind,bootstrap,nodejs,mysql,sqlite,md,git,github,vscode,sublime,postman,stackoverflow,vercel&perline=13)
-
 ![My Skills](https://skillicons.dev/icons?i=python,django,nodejs,html,css,tailwind,sqlite,postgresql,git,github,vscode,postman,md,stackoverflow,sublime&perline=13)
 
 
